@@ -1,4 +1,4 @@
-# Organic-Food-Supply-Chain-Optimization-for-Produce-Distribution
+# Organic Food Supply Chain Optimization for Produce Distribution
 
 ## Project Overview
 This project presents an optimization model for a produce company that specializes in the distribution of organically grown apples. The company aims to devise a cost-effective strategy for transporting apples from its orchard to preparation centers and then to four regional specialty stores.
